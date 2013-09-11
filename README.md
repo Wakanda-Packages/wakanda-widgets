@@ -11,8 +11,11 @@ Please refer to the documentation on the Wakanda website : [http://doc.wakanda.o
 
 ### How to request for your widget to  be added to this list
 To have your widget added to this list, you must:
+
 1. Fork this repository.
+
 2. Add your widget as a submodule.
+
 3. Send us a pull request.
 
 We will review your widget before accepting it. To be accepted, your widget *MUST* include the following:
