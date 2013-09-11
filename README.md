@@ -24,13 +24,9 @@ We will review your widget before accepting it. To be accepted, your widget *MUS
 ### How to use a widget from this list in your project
 To use a widget from this list in your project:
 1. Download the corresponding submodule by cloning it in GIT or by using the "Download ZIP" button from the widget's repository.
-2. Place the custom widget in your computer's folder:
-
-__On Macintosh__: /Users/userName/Documents/Wakanda/Widgets/
-
-__On Windows__: *diskName*:\Users\userName\Documents\Wakanda\Widgets\
-
-3. Open Wakanda Studio and the new widget will appear in the "Custom Widget" section of the Widget tab in the GUI Designer.
+2. To install the widget, refer to [Installing a Custom Widget](http://doc.wakanda.org/WakandaStudio0/help/Title/en/page3869.html#1027761).
+3. Open Wakanda Studio.
+The new widget will appear in the "Custom Widget" section of the "Widgets" tab in the GUI Designer.
 
 
 ### Disclosure
