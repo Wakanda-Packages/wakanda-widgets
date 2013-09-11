@@ -3,4 +3,4 @@
 	url = https://github.com/melindagallo/Hyperlink.git
 [submodule "ColorPicker"]
 	path = ColorPicker
-	url = https://jbpiot@github.com/jbpiot/ColorPicker.git
+	url = https://github.com/jbpiot/ColorPicker.git
