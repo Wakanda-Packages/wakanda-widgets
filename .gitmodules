@@ -4,3 +4,6 @@
 [submodule "ColorPicker"]
 	path = ColorPicker
 	url = https://github.com/jbpiot/ColorPicker.git
+[submodule "Gauge"]
+	path = Gauge
+	url = https://rodo79@github.com/rodo79/Gauge.git
