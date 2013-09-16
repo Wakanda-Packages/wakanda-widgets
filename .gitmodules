@@ -7,3 +7,9 @@
 [submodule "Gauge"]
 	path = Gauge
 	url = https://rodo79@github.com/rodo79/Gauge.git
+[submodule "waf.calender.widget"]
+	path = waf.calender.widget
+	url = https://github.com/vegarringdal/waf.calender.widget
+[submodule "VegarCalender"]
+	path = VegarCalender
+	url = https://github.com/vegarringdal/VegarCalender
