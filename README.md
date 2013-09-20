@@ -27,7 +27,7 @@ We will review your widget before accepting it. To be accepted, your widget *MUS
 ## How to use a widget from this list in your project
 To use a widget from this list in your project:
 
-1. Download the corresponding submodule by cloning it in GIT or by using the "Download ZIP" button from the widget's repository.
+1. Download the corresponding submodule by cloning it in GIT or by using the "Download ZIP" button from the widget's repository. The branch name is attached to the name of the archive, so remove the "-master" from the widget's folder so that it is just the name of the widget.
 
 2. To install the widget, refer to [Installing a Custom Widget](http://doc.wakanda.org/WakandaStudio0/help/Title/en/page3869.html#1027761).
 
