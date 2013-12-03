@@ -13,3 +13,6 @@
 [submodule "VegarCalender"]
 	path = VegarCalender
 	url = https://github.com/vegarringdal/VegarCalender
+[submodule "QR"]
+	path = QR
+	url = https://github.com/rmello4d/QR.git
