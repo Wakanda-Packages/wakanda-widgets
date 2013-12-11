@@ -16,3 +16,24 @@
 [submodule "QR"]
 	path = QR
 	url = https://github.com/rmello4d/QR.git
+[submodule "FaceDetection"]
+	path = FaceDetection
+	url = https://github.com/rmello4d/FaceDetection.git
+[submodule "MyOwnEvent"]
+	path = MyOwnEvent
+	url = https://github.com/rmello4d/MyOwnEvent.git
+[submodule "SimpleSpreadSheet"]
+	path = SimpleSpreadSheet
+	url = https://github.com/rmello4d/SimpleSpreadSheet.git
+[submodule "dropboxsaver"]
+	path = dropboxsaver
+	url = https://github.com/hredwan/dropboxsaver.git
+[submodule "wakandaratings"]
+	path = wakandaratings
+	url = https://github.com/hredwan/wakandaratings.git
+[submodule "wakandaFacebookLikeBox"]
+	path = wakandaFacebookLikeBox
+	url = https://github.com/hredwan/wakandaFacebookLikeBox.git
+[submodule "AudioRecorder"]
+	path = AudioRecorder
+	url = https://github.com/rmello4d/AudioRecorder.git
