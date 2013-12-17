@@ -37,3 +37,6 @@
 [submodule "AudioRecorder"]
 	path = AudioRecorder
 	url = https://github.com/rmello4d/AudioRecorder.git
+[submodule "waDropzone"]
+	path = waDropzone
+	url = https://github.com/hredwan/waDropzone.git
