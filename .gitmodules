@@ -51,3 +51,6 @@
 	path = wEmailList
 	url = https://github.com/wakaDemo/wEmailList.git
 	branch = WAK8
+[submodule "JqxCombobox"]
+	path = JqxCombobox
+	url = https://github.com/rmello4d/JqxCombobox.git
