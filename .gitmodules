@@ -40,3 +40,6 @@
 [submodule "waDropzone"]
 	path = waDropzone
 	url = https://github.com/hredwan/waDropzone.git
+[submodule "BarCode"]
+	path = BarCode
+	url = https://github.com/rmello4d/BarCode.git
