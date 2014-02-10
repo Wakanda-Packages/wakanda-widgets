@@ -47,3 +47,7 @@
 	path = wListView
 	url = https://github.com/wakaDemo/wListView.git
 	branch = WAK8
+[submodule "wEmailList"]
+	path = wEmailList
+	url = https://github.com/wakaDemo/wEmailList.git
+	branch = WAK8
