@@ -43,3 +43,7 @@
 [submodule "BarCode"]
 	path = BarCode
 	url = https://github.com/rmello4d/BarCode.git
+[submodule "wListView"]
+	path = wListView
+	url = https://github.com/wakaDemo/wListView.git
+	branch = WAK8
