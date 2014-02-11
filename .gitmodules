@@ -28,9 +28,7 @@
 [submodule "dropboxsaver"]
 	path = dropboxsaver
 	url = https://github.com/hredwan/dropboxsaver.git
-[submodule "wakandaratings"]
-	path = wakandaratings
-	url = https://github.com/hredwan/wakandaratings.git
+
 [submodule "wakandaFacebookLikeBox"]
 	path = wakandaFacebookLikeBox
 	url = https://github.com/hredwan/wakandaFacebookLikeBox.git
@@ -54,3 +52,6 @@
 [submodule "JqxCombobox"]
 	path = JqxCombobox
 	url = https://github.com/rmello4d/JqxCombobox.git
+[submodule "wakandaratings"]
+	path = wakandaratings
+	url = https://github.com/hredwan/wakandaratings.git
