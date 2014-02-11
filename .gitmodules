@@ -22,7 +22,7 @@
 [submodule "MyOwnEvent"]
 	path = MyOwnEvent
 	url = https://github.com/rmello4d/MyOwnEvent.git
-[submodule "SimpleSpreadSheet"]
+[submodule "SimpleSpreadSheet"] 
 	path = SimpleSpreadSheet
 	url = https://github.com/rmello4d/SimpleSpreadSheet.git
 [submodule "dropboxsaver"]
