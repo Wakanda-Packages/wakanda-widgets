@@ -52,3 +52,7 @@
 [submodule "wakandaratings"]
 	path = wakandaratings
 	url = https://github.com/hredwan/wakandaratings.git
+[submodule "TableView"]
+	path = TableView
+	url = https://github.com/noName-4d/TableView.git
+	branch = WAK8
