@@ -55,3 +55,4 @@
 [submodule "TableView"]
 	path = TableView
 	url = https://github.com/noName-4d/TableView.git
+	branch = WAK8
