@@ -56,3 +56,6 @@
 	path = TableView
 	url = https://github.com/noName-4d/TableView.git
 	branch = WAK8
+[submodule "ModalDialog"]
+	path = ModalDialog
+	url = https://github.com/Ganbin/ModalDialog.git
