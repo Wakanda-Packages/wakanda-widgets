@@ -62,3 +62,6 @@
 [submodule "TextField"]
 	path = TextField
 	url = https://github.com/elaissoussi/CustomTextField.git
+[submodule "CustomPasswordField"]
+	path = CustomPasswordField
+	url = https://github.com/elaissoussi/CustomPasswordField.git
