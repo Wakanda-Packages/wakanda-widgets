@@ -69,3 +69,21 @@
 [submodule "WaSlider"]
 	path = WaSlider
 	url = https://github.com/abdouziad1/WaSlider.git
+[submodule "CustomMultilineTextField"]
+	path = CustomMultilineTextField
+	url = https://github.com/elaissoussi/CustomMultilineTextField.git
+[submodule "Switchery"]
+	path = Switchery
+	url = https://github.com/midrissi/Switchery.git
+[submodule "Tags"]
+	path = Tags
+	url = https://github.com/midrissi/Tags.git
+[submodule "FlipClock"]
+	path = FlipClock
+	url = https://github.com/midrissi/FlipClock.git
+[submodule "MorrisLineChart"]
+	path = MorrisLineChart
+	url = https://github.com/midrissi/MorrisLineChart.git
+[submodule "MorrisBarChart"]
+	path = MorrisBarChart
+	url = https://github.com/midrissi/MorrisBarChart.git
