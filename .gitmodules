@@ -65,6 +65,4 @@
 [submodule "CustomPasswordField"]
 	path = CustomPasswordField
 	url = https://github.com/elaissoussi/CustomPasswordField.git
-[submodule "WaSlider"]
-	path = WaSlider
-	url = https://github.com/abdouziad1/WaSlider.git
+
