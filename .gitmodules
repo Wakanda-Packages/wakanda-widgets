@@ -96,3 +96,12 @@
 [submodule "ChartJS"]
 	path = ChartJS
 	url = https://github.com/welkaddouri/ChartJS.git
+[submodule "WaClock"]
+	path = WaClock
+	url = https://github.com/saadmos/WaClock.git
+[submodule "WaGage"]
+	path = WaGage
+	url = https://github.com/saadmos/WaGage
+[submodule "SignaturePad"]
+	path = SignaturePad
+	url = https://github.com/saadmos/SignaturePad
