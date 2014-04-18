@@ -56,6 +56,3 @@
 	path = TableView
 	url = https://github.com/noName-4d/TableView.git
 	branch = WAK8
-[submodule "GridView"]
-	path = GridView
-	url = https://github.com/vegarringdal/GridView
