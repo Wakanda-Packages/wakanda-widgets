@@ -105,3 +105,6 @@
 [submodule "SignaturePad"]
 	path = SignaturePad
 	url = https://github.com/saadmos/SignaturePad
+[submodule "WaShareButton"]
+	path = WaShareButton
+	url = https://github.com/saadmos/WaShareButton.git
