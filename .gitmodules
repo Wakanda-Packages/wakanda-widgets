@@ -108,3 +108,6 @@
 [submodule "WaShareButton"]
 	path = WaShareButton
 	url = https://github.com/saadmos/WaShareButton.git
+[submodule "CustomTextField"]
+	path = CustomTextField
+	url = https://github.com/elaissoussi/CustomTextField
