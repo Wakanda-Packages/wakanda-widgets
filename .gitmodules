@@ -114,3 +114,4 @@
 [submodule "wCombobox"]
 	path = wCombobox
 	url = https://github.com/el-med/wCombobox.git
+	branch = wak8
