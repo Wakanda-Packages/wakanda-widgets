@@ -90,7 +90,6 @@
 [submodule "Select2"]
 	path = Select2
 	url = https://github.com/el-med/Select2.git
-	branch = wak8
 [submodule "Leaflet"]
 	path = Leaflet
 	url = https://github.com/el-med/Leaflet.git
