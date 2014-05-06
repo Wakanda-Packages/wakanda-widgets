@@ -111,7 +111,3 @@
 [submodule "CustomTextField"]
 	path = CustomTextField
 	url = https://github.com/elaissoussi/CustomTextField
-[submodule "wCombobox"]
-	path = wCombobox
-	url = https://github.com/el-med/wCombobox.git
-	branch = wak8
