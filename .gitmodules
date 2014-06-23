@@ -111,3 +111,42 @@
 [submodule "CustomTextField"]
 	path = CustomTextField
 	url = https://github.com/elaissoussi/CustomTextField
+[submodule "WakendoCore"]
+	path = WakendoCore
+	url = https://github.com/acoudeyras/WakendoCore
+[submodule "WakendoCalendar"]
+	path = WakendoCalendar
+	url = https://github.com/acoudeyras/WakendoCalendar
+[submodule "WakendoDateTimePicker"]
+	path = WakendoDateTimePicker
+	url = https://github.com/acoudeyras/WakendoDateTimePicker
+[submodule "WakendoTimePicker"]
+	path = WakendoTimePicker
+	url = https://github.com/acoudeyras/WakendoTimePicker
+[submodule "WakendoSlider"]
+	path = WakendoSlider
+	url = https://github.com/acoudeyras/WakendoSlider
+[submodule "WakendoPaletteColorPicker"]
+	path = WakendoPaletteColorPicker
+	url = https://github.com/acoudeyras/WakendoPaletteColorPicker
+[submodule "WakendoNumericTextBox"]
+	path = WakendoNumericTextBox
+	url = https://github.com/acoudeyras/WakendoNumericTextBox
+[submodule "WakendoMaskedTextBox"]
+	path = WakendoMaskedTextBox
+	url = https://github.com/acoudeyras/WakendoMaskedTextBox
+[submodule "WakendoColorPicker"]
+	path = WakendoColorPicker
+	url = https://github.com/acoudeyras/WakendoColorPicker
+[submodule "WakendoProgressBar"]
+	path = WakendoProgressBar
+	url = https://github.com/acoudeyras/WakendoProgressBar
+[submodule "WakendoDatePicker"]
+	path = WakendoDatePicker
+	url = https://github.com/acoudeyras/WakendoDatePicker
+[submodule "WakendoRangeSlider"]
+	path = WakendoRangeSlider
+	url = https://github.com/acoudeyras/WakendoRangeSlider
+[submodule "WakendoButton"]
+	path = WakendoButton
+	url = https://github.com/acoudeyras/WakendoButton
