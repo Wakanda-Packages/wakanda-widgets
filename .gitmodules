@@ -150,3 +150,6 @@
 [submodule "WakendoButton"]
 	path = WakendoButton
 	url = https://github.com/acoudeyras/WakendoButton
+[submodule "WakandaGantt"]
+	path = WakandaGantt
+	url = https://github.com/rmello4d/WakandaGantt.git
