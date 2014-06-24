@@ -153,3 +153,6 @@
 [submodule "WakandaGantt"]
 	path = WakandaGantt
 	url = https://github.com/rmello4d/WakandaGantt.git
+[submodule "GridView"]
+	path = GridView
+	url = https://github.com/vegarringdal/GridView
