@@ -153,3 +153,6 @@
 [submodule "GridView"]
 	path = GridView
 	url = https://github.com/vegarringdal/GridView
+[submodule "Select2"]
+	path = Select2
+	url = https://github.com/el-med/Select2.git
