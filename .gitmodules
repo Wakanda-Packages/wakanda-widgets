@@ -87,9 +87,6 @@
 [submodule "MorrisBarChart"]
 	path = MorrisBarChart
 	url = https://github.com/midrissi/MorrisBarChart.git
-[submodule "Select2"]
-	path = Select2
-	url = https://github.com/el-med/Select2.git
 [submodule "Leaflet"]
 	path = Leaflet
 	url = https://github.com/el-med/Leaflet.git
