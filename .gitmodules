@@ -81,12 +81,6 @@
 [submodule "FlipClock"]
 	path = FlipClock
 	url = https://github.com/midrissi/FlipClock.git
-[submodule "MorrisLineChart"]
-	path = MorrisLineChart
-	url = https://github.com/midrissi/MorrisLineChart.git
-[submodule "MorrisBarChart"]
-	path = MorrisBarChart
-	url = https://github.com/midrissi/MorrisBarChart.git
 [submodule "Leaflet"]
 	path = Leaflet
 	url = https://github.com/el-med/Leaflet.git
