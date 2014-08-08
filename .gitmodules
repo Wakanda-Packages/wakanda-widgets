@@ -150,3 +150,9 @@
 [submodule "Select2"]
 	path = Select2
 	url = https://github.com/el-med/Select2.git
+[submodule "WakendoDropDownList"]
+	path = WakendoDropDownList
+	url = https://github.com/acoudeyras/WakendoDropDownList
+[submodule "WakendoCombobox"]
+	path = WakendoCombobox
+	url = https://github.com/acoudeyras/WakendoCombobox
