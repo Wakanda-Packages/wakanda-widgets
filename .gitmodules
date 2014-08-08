@@ -50,3 +50,9 @@
 	path = TableView
 	url = https://github.com/noName-4d/TableView.git
 	branch = WAK8
+[submodule "WakendoCombobox"]
+	path = WakendoCombobox
+	url = https://github.com/acoudeyras/WakendoCombobox
+[submodule "WakendoDropDownList"]
+	path = WakendoDropDownList
+	url = https://github.com/acoudeyras/WakendoDropDownList
