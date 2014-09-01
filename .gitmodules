@@ -150,3 +150,9 @@
 [submodule "WakendoCombobox"]
 	path = WakendoCombobox
 	url = https://github.com/acoudeyras/WakendoCombobox
+[submodule "wakandaratings"]
+	path = wakandaratings
+	url = https://github.com/hredwan/wakandaratings.git
+[submodule "waDropzone"]
+	path = waDropzone
+	url = https://github.com/hredwan/waDropzone.git
