@@ -159,3 +159,24 @@
 [submodule "Button"]
 	path = Button
 	url = https://github.com/Wakanda/Button.git
+[submodule "Text"]
+	path = Text
+	url = https://github.com/Wakanda/Text.git
+[submodule "TextInput"]
+	path = TextInput
+	url = https://github.com/Wakanda/TextInput.git
+[submodule "Checkbox"]
+	path = Checkbox
+	url = https://github.com/Wakanda/Checkbox.git
+[submodule "Tabs"]
+	path = Tabs
+	url = https://github.com/Wakanda/Tabs.git
+[submodule "TabsBar"]
+	path = TabsBar
+	url = https://github.com/Wakanda/TabsBar.git
+[submodule "TabsTab"]
+	path = TabsTab
+	url = https://github.com/Wakanda/TabsTab.git
+[submodule "TabsContainer"]
+	path = TabsContainer
+	url = https://github.com/Wakanda/TabsContainer.git
