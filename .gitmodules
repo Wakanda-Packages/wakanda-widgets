@@ -176,3 +176,6 @@
 [submodule "TabsContainer"]
 	path = TabsContainer
 	url = https://github.com/Wakanda/TabsContainer.git
+[submodule "wListView"]
+	path = wListView
+	url = https://github.com/Wakanda/wListView.git
