@@ -182,3 +182,6 @@
 [submodule "Container"]
 	path = Container
 	url = https://github.com/Wakanda/Container.git
+[submodule "Select2widgetAdvanced"]
+	path = Select2widgetAdvanced
+	url = https://github.com/vegarringdal/Select2widgetAdvanced
