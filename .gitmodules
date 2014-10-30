@@ -185,3 +185,6 @@
 [submodule "Select2widgetAdvanced"]
 	path = Select2widgetAdvanced
 	url = https://github.com/vegarringdal/Select2widgetAdvanced
+[submodule "InputText"]
+	path = InputText
+	url = https://github.com/vegarringdal/InputText
