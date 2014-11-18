@@ -188,3 +188,6 @@
 [submodule "InputText"]
 	path = InputText
 	url = https://github.com/vegarringdal/InputText
+[submodule "WakCropImages"]
+	path = WakCropImages
+	url = https://github.com/dsantiago89/WakCropImages.git
