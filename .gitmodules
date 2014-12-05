@@ -191,3 +191,9 @@
 [submodule "WakCropImages"]
 	path = WakCropImages
 	url = https://github.com/dsantiago89/WakCropImages.git
+[submodule "CKEditor"]
+	path = CKEditor
+	url = https://github.com/stefaneugster/CKEditor.git
+[submodule "JQDateTime"]
+	path = JQDateTime
+	url = https://github.com/stefaneugster/JQDateTime.git
