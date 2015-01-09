@@ -152,9 +152,6 @@
 [submodule "waDropzone"]
 	path = waDropzone
 	url = https://github.com/hredwan/waDropzone.git
-[submodule "Button"]
-	path = Button
-	url = https://github.com/Wakanda/Button.git
 [submodule "Text"]
 	path = Text
 	url = https://github.com/Wakanda/Text.git
