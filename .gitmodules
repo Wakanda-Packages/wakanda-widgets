@@ -200,3 +200,6 @@
 [submodule "Exporter"]
 	path = Exporter
 	url = https://github.com/AMorgaut/Exporter
+[submodule "WPromises"]
+	path = WPromises
+	url = https://github.com/AMorgaut/WPromises
