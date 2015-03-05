@@ -25,7 +25,6 @@
 [submodule "dropboxsaver"]
 	path = dropboxsaver
 	url = https://github.com/hredwan/dropboxsaver.git
-
 [submodule "wakandaFacebookLikeBox"]
 	path = wakandaFacebookLikeBox
 	url = https://github.com/hredwan/wakandaFacebookLikeBox.git
@@ -55,7 +54,6 @@
 [submodule "CustomPasswordField"]
 	path = CustomPasswordField
 	url = https://github.com/elaissoussi/CustomPasswordField.git
-
 [submodule "WaSlider"]
 	path = WaSlider
 	url = https://github.com/abdouziad1/WaSlider.git
@@ -203,3 +201,4 @@
 [submodule "WPromises"]
 	path = WPromises
 	url = https://github.com/AMorgaut/WPromises
+	ignore = dirty
