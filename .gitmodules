@@ -205,3 +205,6 @@
 [submodule "QUnit"]
 	path = QUnit
 	url = https://github.com/AMorgaut/WQUnit
+[submodule "Bluebird"]
+	path = Bluebird
+	url = https://github.com/AMorgaut/Bluebird
