@@ -208,3 +208,6 @@
 [submodule "Bluebird"]
 	path = Bluebird
 	url = https://github.com/AMorgaut/Bluebird
+[submodule "Fetch"]
+	path = Fetch
+	url = https://github.com/AMorgaut/WFetch
