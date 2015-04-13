@@ -211,3 +211,6 @@
 [submodule "Fetch"]
 	path = Fetch
 	url = https://github.com/AMorgaut/WFetch
+[submodule "UnitTestWidget"]
+	path = UnitTestWidget
+	url = https://github.com/SebCourvoisier4D/UnitTestWidget
