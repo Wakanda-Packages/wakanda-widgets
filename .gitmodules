@@ -214,3 +214,9 @@
 [submodule "UnitTestWidget"]
 	path = UnitTestWidget
 	url = https://github.com/SebCourvoisier4D/UnitTestWidget
+[submodule "Select"]
+	path = Select
+	url = https://github.com/Wakanda/Select.git
+[submodule "RadioGroup"]
+	path = RadioGroup
+	url = https://github.com/Wakanda/RadioGroup.git
