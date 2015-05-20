@@ -9,14 +9,79 @@ Please refer to the documentation on the Wakanda website : [http://doc.wakanda.o
 * [Creating a Custom Widget (v6)](http://doc.wakanda.org/Wakanda0.DevBranch/help/Title/en/page3849.html)
 * [Creating a Custom Widget (v1-5)](http://doc.wakanda.org/WakandaStudio0/help/Title/en/page2040.html)
 
-## How to request for your widget to  be added to this list
-To have your widget added to this list, you must:
+## How to request for your add-on repository to be added to this list
 
-1. Fork this repository.
+To have your add-on repository (widget, theme, extension or module) added to one of our lists, please follow the below steps:
+#####ps. The procedure is the same for themes, extensions, modules and etc. 
 
-2. Add your widget as a submodule.
+1. Fork the Wakanda-Packages/{wakanda-widgets} to your personal repository (just once)
+2. Clone the forked repository to your machine (just once)
+3. ADD or UPDATE your add-on 
+4. Commit and Push your work
+5. Send a pull request
 
-3. Send us a pull request.
+Below the details of each phase :
+
+***
+
+#### Fork it!
+
+1. Using the github interface, fork the https://github.com/Wakanda-Packages/wakanda-widgets to your account. 
+
+2. Clone the forked repository:
+
+	git clone --recursive https://github.com/myUsername/wakanda-widgets.git
+
+
+3. Sync your fork back to the remote:
+
+	cd wakanda-widgets
+	
+	git remote add upstream https://github.com/Wakanda-Packages/wakanda-widgets.git
+
+***
+
+#### To ADD a widget 
+
+1. Add your add-on widget as a submodule:
+
+	git submodule add https://github.com/myUsername/myWidget.git myWidget
+
+***
+
+#### To UPDATE a widget 
+
+1. First update and sync with the wakanda-widgets repository :
+
+	git fetch upstream 
+
+	git checkout master 
+
+	git merge upstream/master
+	
+
+2. Update your submodule 
+
+	git submodule update --remote myWidget
+
+***
+
+
+#### Commit and Push
+
+1. Commit your changes to your local repository and push them to Github
+	git commit -a
+	git push origin master
+
+***
+
+#### Submit your add-on to the Wakanda directory
+
+1. Go to https://github.com/myUsername/wakanda-widgets and create a new pull request with your latest additions. 
+
+## It’s done !
+
+***
 
 We will review your widget before accepting it. To be accepted, your widget *MUST* include the following:
 
