@@ -70,7 +70,9 @@ Below the details of each phase :
 #### Commit and Push
 
 1. Commit your changes to your local repository and push them to Github
+
 	git commit -a
+
 	git push origin master
 
 ***
