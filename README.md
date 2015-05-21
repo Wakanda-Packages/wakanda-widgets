@@ -11,12 +11,10 @@ Please refer to the documentation on the Wakanda website : [http://doc.wakanda.o
 
 ## How to request for your add-on repository to be added to this list
 
-To have your add-on repository (widget, theme, extension or module) added to one of our lists, please follow the below steps:
-#####ps. The procedure is the same for themes, extensions, modules and etc. 
-
-1. Fork the Wakanda-Packages/{wakanda-widgets} to your personal repository (just once)
-2. Clone the forked repository to your machine (just once)
-3. ADD or UPDATE your add-on 
+To have your add-on widget  repository  added to one of our lists:
+1. Fork the Wakanda-Packages/wakanda-widgets repository to your personal account: myUser/wakanda-widgets
+2. Clone the myUser/wakanda-widgets repository to your machine 
+3. ADD or UPDATE your widget (myUsername/myWidget) into the myUser/wakanda-widgets repository
 4. Commit and Push your work
 5. Send a pull request
 
@@ -24,36 +22,32 @@ Below the details of each phase :
 
 ***
 
-#### Fork it!
+#### Set up your environment and Fork the Wakanda-Packages repository
 
-1. Using the github interface, fork the https://github.com/Wakanda-Packages/wakanda-widgets to your account. 
+1. Go to https://github.com/Wakanda-Packages/wakanda-widgets and fork this repository to your account. 
 
-2. Clone the forked repository:
+2. Clone the forked repository to your machine:
 
 	git clone --recursive https://github.com/myUsername/wakanda-widgets.git
 
-
 3. Sync your fork back to the remote:
-
 
 	cd wakanda-widgets
 	
 	git remote add upstream https://github.com/Wakanda-Packages/wakanda-widgets.git
 	
-4. init the directory of your widget and get all the code (if the widget exists)
-	
-	git submodule init myWidget
-	git submodule update myWidget
 
 ***
 
-#### To ADD a widget 
+#### To ADD a widget as a submodule to your myUser/wakanda-widgets repository
 
-1. Add your add-on widget as a submodule:
+1. go to your myUser/wakanda-widgets folder and add your widget as a submodule:
 
-	git submodule add https://github.com/myUsername/myWidget.git myWidget
+	cd wakanda-widgets
+	
+	git submodule add https://github.com/myUsername/myWidget.git 
 
-2. Commit your changes to your local repository and push them to Github
+2. Commit your changes to myUser/wakanda-widgets repository and push them to Github
 
 	git add myWidget
 	
@@ -64,8 +58,10 @@ Below the details of each phase :
 
 #### To UPDATE a widget 
 
-1. First get the latest from the wakanda-widgets repository :
 
+1. First get the latest from the Wakanda-Packages/wakanda-widgets repository :
+
+	cd wakanda-widgets
 
 	git fetch upstream 
 
@@ -73,15 +69,11 @@ Below the details of each phase :
 
 	git merge upstream/master
 	
-2. Pull your changes 
+2. Pull your changes from the myUsername/myWidget to the  myUser/wakanda-widgets
 
-	cd myWidget
-	 
-	git pull origin master   // updating all my changes
+	git pull myWidget origin master   
 	
-	cd .. 	
-
-3. Commit your changes to your local repository and push them to Github
+3. Commit your changes to myUser/wakanda-widgets and push them to Github
 
 	git add myWidget
 	
@@ -93,7 +85,7 @@ Below the details of each phase :
 
 #### Submit your add-on to the Wakanda directory
 
-1. Go to https://github.com/myUsername/wakanda-widgets, you should see your changes updated in the forked repository. Create a new pull request with your latest additions. 
+1. Go to https://github.com/myUsername/wakanda-widgets, you should see your changes. Create a new pull request with your latest modifications. 
 
 ## It’s done !
 
