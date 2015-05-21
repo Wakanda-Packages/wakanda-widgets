@@ -35,9 +35,14 @@ Below the details of each phase :
 
 3. Sync your fork back to the remote:
 
+
 	cd wakanda-widgets
 	
 	git remote add upstream https://github.com/Wakanda-Packages/wakanda-widgets.git
+	
+4. init the directory of your widget (if the widget exists)
+	
+	git submodule init myWidget
 
 ***
 
