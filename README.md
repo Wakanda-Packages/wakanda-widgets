@@ -40,9 +40,10 @@ Below the details of each phase :
 	
 	git remote add upstream https://github.com/Wakanda-Packages/wakanda-widgets.git
 	
-4. init the directory of your widget (if the widget exists)
+4. init the directory of your widget and get all the code (if the widget exists)
 	
 	git submodule init myWidget
+	git submodule update myWidget
 
 ***
 
@@ -52,11 +53,19 @@ Below the details of each phase :
 
 	git submodule add https://github.com/myUsername/myWidget.git myWidget
 
+2. Commit your changes to your local repository and push them to Github
+
+	git add myWidget
+	
+	git commit -a
+
+	git push origin master
 ***
 
 #### To UPDATE a widget 
 
-1. First update and sync with the wakanda-widgets repository :
+1. First get the latest from the wakanda-widgets repository :
+
 
 	git fetch upstream 
 
@@ -64,18 +73,18 @@ Below the details of each phase :
 
 	git merge upstream/master
 	
+2. Pull your changes 
 
-2. Update your submodule 
+	cd myWidget
+	 
+	git pull origin master   // updating all my changes
+	
+	cd .. 	
 
-	git submodule update --remote myWidget
+3. Commit your changes to your local repository and push them to Github
 
-***
-
-
-#### Commit and Push
-
-1. Commit your changes to your local repository and push them to Github
-
+	git add myWidget
+	
 	git commit -a
 
 	git push origin master
@@ -84,7 +93,7 @@ Below the details of each phase :
 
 #### Submit your add-on to the Wakanda directory
 
-1. Go to https://github.com/myUsername/wakanda-widgets and create a new pull request with your latest additions. 
+1. Go to https://github.com/myUsername/wakanda-widgets, you should see your changes updated in the forked repository. Create a new pull request with your latest additions. 
 
 ## It’s done !
 
