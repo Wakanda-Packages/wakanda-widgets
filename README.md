@@ -80,9 +80,7 @@ To update your widget:
 
 ### Submitting your add-on to the Wakanda directory
 
-First, go to **https://github.com/{myUsername}/wakanda-widgets** to see your changes. 
-
-Create a new pull request with your latest modifications. 
+First, go to **https://github.com/{myUsername}/wakanda-widgets** to see your changes. Then, create a new pull request with your latest modifications. 
 
 ### Reviewing process
 We will review your widget before accepting it. To be accepted, your widget **MUST** include the following:
